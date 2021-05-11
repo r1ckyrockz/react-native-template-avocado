@@ -1,0 +1,27 @@
+{
+  "general": {
+    "applicationLoading": "Application is loading...",
+    "loading": "Loading",
+    "cancel": "Cancel"
+  },
+  "error": {
+    "noConnection": {
+      "title": "No Internet Connection",
+      "message": "Please make sure you are connected with the internet"
+    },
+    "fatal": {
+      "title": "Unexpected error occurred",
+      "message": ""
+    },
+    "default": {
+      "title": "Oops, Something Went Wrong",
+      "message": "The app ran into a problem and could not continue. We apologize for any inconvenience this has caused! Press the button below to restart the app and sign back in. Please contact us if this issue persists.",
+      "buttonLabel": "Back to Sign In Screen"
+    }
+  },
+  "form": {
+    "rules": {
+      "required": "This field is required."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "react-native-template-typescript",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+  "scripts": {
+    "test": "exit 0",
+    "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r1ckyrockz/react-native-template-avocado.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Riccardo Carano <riccardo.carano@rr-cube.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r1ckyrockz/react-native-template-avocado/issues"
+  },
+  "homepage": "https://github.com/r1ckyrockz/react-native-template-avocado#readme"
+}
